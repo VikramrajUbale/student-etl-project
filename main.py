@@ -13,6 +13,7 @@ def run_pipeline():
     load_data(transformed_df)
 
     print("Pipeline completed")
+    print("All Done")
     
 
 run_pipeline()
